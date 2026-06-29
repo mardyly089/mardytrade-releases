@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v1.1.0/MardyTradeSetup.exe",
-  "notes": "Added broker account lock: 1 key = 1 PC + 1 MT5 broker account"
+  "version": "1.2.0",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v1.2.0/MardyTradeSetup.exe",
+  "notes": "LTF Flip: auto-close profit trade and flip when lower TF fires counter-signal"
 }
