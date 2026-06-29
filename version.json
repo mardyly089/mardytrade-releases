@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v1.3.0/MardyTradeSetup.exe",
-  "notes": "Multi-TF chart grid (M15/M30/H1/H4) with live signal badges + multi-TF scanner that trades whichever timeframe fires first"
+  "version": "1.4.0",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v1.4.0/MardyTradeSetup.exe",
+  "notes": "Charts now full-width and larger; Strategy/Filters/Risk Management moved to bottom panel; Timeframe selector removed (Multi-TF Scan covers all); Lock entry on reversal feature added"
 }
