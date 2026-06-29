@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v1.2.0/MardyTradeSetup.exe",
-  "notes": "LTF Flip: auto-close profit trade and flip when lower TF fires counter-signal"
+  "version": "1.2.1",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v1.2.1/MardyTradeSetup.exe",
+  "notes": "Fixed SL trailing: step trail now correctly starts at trail_start_pips, added SL move log"
 }
