@@ -1,5 +1,5 @@
 {
-  "version": "1.8.0",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v1.8.0/MardyTradeSetup-1.8.0.exe",
-  "notes": "License key now required for live trading on ANY real account, at any broker \u2014 including JustMarkets. Only demo accounts remain free."
+  "version": "1.9.0",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v1.9.0/MardyTradeSetup-1.9.0.exe",
+  "notes": "Simplified Risk Management panel \u2014 removed rarely-tuned fields (Confirm bars, Max same-direction, SL re-entry buffer, Time stop min-profit), keeping sensible defaults under the hood. Trend filter now defaults to H1 for new installs."
 }
