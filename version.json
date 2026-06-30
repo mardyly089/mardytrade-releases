@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v1.5.0/MardyTradeSetup-1.5.0.exe",
-  "notes": "Real capped re-entry after SL hit (M5-buffer SL, no Telegram spam) + clearer multi-TF / lock-on-reversal logging"
+  "version": "1.6.0",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v1.6.0/MardyTradeSetup-1.6.0.exe",
+  "notes": "Confirmed-reversal early exit (all strategies), time-based stop on stuck/flat trades, and a cap on same-direction position stacking"
 }
