@@ -1,5 +1,5 @@
 {
-  "version": "1.6.0",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v1.6.0/MardyTradeSetup-1.6.0.exe",
-  "notes": "Confirmed-reversal early exit (all strategies), time-based stop on stuck/flat trades, and a cap on same-direction position stacking"
+  "version": "1.7.0",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v1.7.0/MardyTradeSetup-1.7.0.exe",
+  "notes": "Require lower-TF confirmation (e.g. M5) before entry \u2014 the entry timeframe's signal must agree with the same-direction signal on the confirm TF"
 }
