@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v1.7.0/MardyTradeSetup-1.7.0.exe",
-  "notes": "Require lower-TF confirmation (e.g. M5) before entry \u2014 the entry timeframe's signal must agree with the same-direction signal on the confirm TF"
+  "version": "1.8.0",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v1.8.0/MardyTradeSetup-1.8.0.exe",
+  "notes": "License key now required for live trading on ANY real account, at any broker \u2014 including JustMarkets. Only demo accounts remain free."
 }
