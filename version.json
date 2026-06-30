@@ -1,5 +1,5 @@
 {
-  "version": "1.9.0",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v1.9.0/MardyTradeSetup-1.9.0.exe",
-  "notes": "Simplified Risk Management panel \u2014 removed rarely-tuned fields (Confirm bars, Max same-direction, SL re-entry buffer, Time stop min-profit), keeping sensible defaults under the hood. Trend filter now defaults to H1 for new installs."
+  "version": "2.0.0",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.0.0/MardyTradeSetup-2.0.0.exe",
+  "notes": "Removed Require lower-TF confirm (was causing late entries waiting for a full M5 breakout pattern) \u2014 replaced by the existing, faster 1m candle confirm for Breakout Trendline, now on by default. Simpler filter panel."
 }
