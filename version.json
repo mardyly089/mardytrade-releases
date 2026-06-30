@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v1.4.0/MardyTradeSetup.exe",
-  "notes": "Charts now full-width and larger; Strategy/Filters/Risk Management moved to bottom panel; Timeframe selector removed (Multi-TF Scan covers all); Lock entry on reversal feature added"
+  "version": "1.5.0",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v1.5.0/MardyTradeSetup-1.5.0.exe",
+  "notes": "Real capped re-entry after SL hit (M5-buffer SL, no Telegram spam) + clearer multi-TF / lock-on-reversal logging"
 }
