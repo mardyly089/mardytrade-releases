@@ -1,5 +1,5 @@
 {
-  "version": "2.4.11",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.11/MardyTradeSetup-2.4.11.exe",
-  "notes": "bt_m5m15_mode: 1M confirmation checks against M15/M5 breakout candle close, not trendline level"
+  "version": "2.4.12",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.12/MardyTradeSetup-2.4.12.exe",
+  "notes": "bt_m5m15_mode: remove H1/H4 direction gates \u2014 1M candle confirmation is the only filter"
 }
