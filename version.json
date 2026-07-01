@@ -1,5 +1,5 @@
 {
-  "version": "2.4.8",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.8/MardyTradeSetup-2.4.8.exe",
-  "notes": "TP exit: 1M candle closing back across the entry trendline now triggers immediate close (default 1 bar, configurable). Log shows +pips if TP, or warns if exit at loss"
+  "version": "2.4.9",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.9/MardyTradeSetup-2.4.9.exe",
+  "notes": "bt_m5m15_mode: M15/M5 completed breakout detection + 1M candle confirmation entry"
 }
