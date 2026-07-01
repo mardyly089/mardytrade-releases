@@ -1,5 +1,5 @@
 {
-  "version": "2.4.6",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.6/MardyTradeSetup-2.4.6.exe",
-  "notes": "Fix: EMA200 and market structure are now quality score penalties (0-10 pts each), not hard gates \u2014 bot can now enter early trend reversals if trendline breakout quality is strong enough (score >= 72)"
+  "version": "2.4.7",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.7/MardyTradeSetup-2.4.7.exe",
+  "notes": "Redesign bt_m5m15_mode: M15 detects 3-touch trendline approach (pre-breakout), M5 confirms proximity, 1M candle close above/below trendline = entry trigger"
 }
