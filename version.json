@@ -1,5 +1,5 @@
 {
-  "version": "2.4.4",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.4/MardyTradeSetup-2.4.4.exe",
-  "notes": "New: false-breakout exit \u2014 2 consecutive 1M closes back across the trendline automatically closes the position (configurable via bt_1m_exit_bars)"
+  "version": "2.4.5",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.5/MardyTradeSetup-2.4.5.exe",
+  "notes": "GUI: add M5/M15+1M Confirm mode checkbox; fix: change Trend TF default label to H1"
 }
