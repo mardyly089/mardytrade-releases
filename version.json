@@ -1,5 +1,5 @@
 {
-  "version": "2.4.2",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.2/MardyTradeSetup-2.4.2.exe",
-  "notes": "Fix: skip stale/late entries \u2014 bot now ignores breakouts that happened before Start was clicked, and skips entry if price already moved more than 30 pips from trendline"
+  "version": "2.4.3",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.3/MardyTradeSetup-2.4.3.exe",
+  "notes": "New: bt_m5m15_mode \u2014 scan M5+M15 for breakout entry, H1+H4 EMA for direction only, wait for 1M candle close above/below trendline before entering"
 }
