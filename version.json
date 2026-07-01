@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.0.0/MardyTradeSetup-2.0.0.exe",
-  "notes": "Removed Require lower-TF confirm (was causing late entries waiting for a full M5 breakout pattern) \u2014 replaced by the existing, faster 1m candle confirm for Breakout Trendline, now on by default. Simpler filter panel."
+  "version": "2.1.0",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.1.0/MardyTradeSetup-2.1.0.exe",
+  "notes": "Add M1/M5 live charts; re-entry now waits for same-direction candle after SL hit; auto-close if 2 consecutive adverse 1m bars after entry"
 }
