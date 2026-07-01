@@ -1,5 +1,5 @@
 {
-  "version": "2.4.9",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.9/MardyTradeSetup-2.4.9.exe",
-  "notes": "bt_m5m15_mode: M15/M5 completed breakout detection + 1M candle confirmation entry"
+  "version": "2.4.10",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.10/MardyTradeSetup-2.4.10.exe",
+  "notes": "Fix false 'out of credits' error when OpenRouter 402 is not a balance issue"
 }
