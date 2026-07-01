@@ -1,5 +1,5 @@
 {
-  "version": "2.2.0",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.2.0/MardyTradeSetup-2.2.0.exe",
-  "notes": "Breakout Trendline now scans M5 candles; multi-TF scan includes M5 (H4/H1/M30/M15/M5)"
+  "version": "2.3.0",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.3.0/MardyTradeSetup-2.3.0.exe",
+  "notes": "Fix Trail SL spam (check broker min-stop before modify); clear multi-TF scan log; H1 EMA50 gate blocks fake M5 breakout signals"
 }
