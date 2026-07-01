@@ -1,5 +1,5 @@
 {
-  "version": "2.3.2",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.3.2/MardyTradeSetup-2.3.2.exe",
-  "notes": "Stronger trendline structure: bt_pivot 3 to 5 (75min swing on M15, 25min on M5); entry candle body filter 0.15 to 0.25x ATR \u2014 eliminates weak false breakouts"
+  "version": "2.4.0",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.0/MardyTradeSetup-2.4.0.exe",
+  "notes": "Institutional Breakout Trendline v2: 3-touch trendlines, EMA200 cross, market structure (HH/HL), quality score 0-100 (default threshold 72), volume surge gate, rejection wick filter, dynamic R:R take-profit (2:1 default), retest entry mode"
 }
