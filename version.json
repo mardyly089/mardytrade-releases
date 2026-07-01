@@ -1,5 +1,5 @@
 {
-  "version": "2.1.0",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.1.0/MardyTradeSetup-2.1.0.exe",
-  "notes": "Add M1/M5 live charts; re-entry now waits for same-direction candle after SL hit; auto-close if 2 consecutive adverse 1m bars after entry"
+  "version": "2.2.0",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.2.0/MardyTradeSetup-2.2.0.exe",
+  "notes": "Breakout Trendline now scans M5 candles; multi-TF scan includes M5 (H4/H1/M30/M15/M5)"
 }
