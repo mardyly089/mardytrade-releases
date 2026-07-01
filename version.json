@@ -1,5 +1,5 @@
 {
-  "version": "2.4.5",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.5/MardyTradeSetup-2.4.5.exe",
-  "notes": "GUI: add M5/M15+1M Confirm mode checkbox; fix: change Trend TF default label to H1"
+  "version": "2.4.6",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.6/MardyTradeSetup-2.4.6.exe",
+  "notes": "Fix: EMA200 and market structure are now quality score penalties (0-10 pts each), not hard gates \u2014 bot can now enter early trend reversals if trendline breakout quality is strong enough (score >= 72)"
 }
