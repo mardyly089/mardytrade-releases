@@ -1,5 +1,5 @@
 {
-  "version": "2.3.1",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.3.1/MardyTradeSetup-2.3.1.exe",
-  "notes": "Update check now repeats every 4 hours \u2014 running bots on VPS will auto-detect new releases without restarting"
+  "version": "2.3.2",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.3.2/MardyTradeSetup-2.3.2.exe",
+  "notes": "Stronger trendline structure: bt_pivot 3 to 5 (75min swing on M15, 25min on M5); entry candle body filter 0.15 to 0.25x ATR \u2014 eliminates weak false breakouts"
 }
