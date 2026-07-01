@@ -1,5 +1,5 @@
 {
-  "version": "2.4.0",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.0/MardyTradeSetup-2.4.0.exe",
-  "notes": "Institutional Breakout Trendline v2: 3-touch trendlines, EMA200 cross, market structure (HH/HL), quality score 0-100 (default threshold 72), volume surge gate, rejection wick filter, dynamic R:R take-profit (2:1 default), retest entry mode"
+  "version": "2.4.1",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.1/MardyTradeSetup-2.4.1.exe",
+  "notes": "Fix: numpy.void has no attribute 'get' error in volume check during multi-TF scan"
 }
