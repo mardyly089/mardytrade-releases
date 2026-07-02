@@ -1,5 +1,5 @@
 {
-  "version": "2.4.14",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.14/MardyTradeSetup-2.4.14.exe",
-  "notes": "NEW: Auto Regime Switch - the bot measures trend strength (H1 ADX) and automatically picks Breakout Trendline in trending markets or S/R Bounce in ranging markets. Switch is logged and only happens while flat. Also: regime status shown at startup."
+  "version": "2.4.15",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.15/MardyTradeSetup-2.4.15.exe",
+  "notes": "Remove hard volume gates \u2014 volume is now score-only, no longer blocks valid breakouts"
 }
