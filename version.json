@@ -1,5 +1,5 @@
 {
-  "version": "2.4.15",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.15/MardyTradeSetup-2.4.15.exe",
-  "notes": "Remove hard volume gates \u2014 volume is now score-only, no longer blocks valid breakouts"
+  "version": "2.4.16",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.16/MardyTradeSetup-2.4.16.exe",
+  "notes": "Manual TF scan: click M5/M15/M30 button while bot runs to arm 1M confirmation on that TF breakout"
 }
