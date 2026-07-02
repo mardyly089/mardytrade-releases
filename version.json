@@ -1,5 +1,5 @@
 {
-  "version": "2.4.12",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.12/MardyTradeSetup-2.4.12.exe",
-  "notes": "bt_m5m15_mode: remove H1/H4 direction gates \u2014 1M candle confirmation is the only filter"
+  "version": "2.4.13",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.13/MardyTradeSetup-2.4.13.exe",
+  "notes": "New strategies: S/R Bounce, RSI Reversal, Liquidity Sweep (SMC). Breakout Trendline: entry now waits for a NEW 1m confirmation candle after the M15 breakout closes. Auto-trade SL/TP and daily loss limit now configurable."
 }
