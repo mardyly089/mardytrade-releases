@@ -1,5 +1,5 @@
 {
-  "version": "2.4.22",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.22/MardyTradeSetup-2.4.22.exe",
-  "notes": "New compact no-scroll layout: 2-column design with charts on left, settings sidebar on right \u2014 fits any screen without scrolling. Removed session start bar guard so PC and VPS now enter trades at the same time."
+  "version": "2.4.23",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.23/MardyTradeSetup-2.4.23.exe",
+  "notes": "Fix: bot now defaults to LIVE trading (was incorrectly defaulting to Dry Run, causing all new installs to never place real orders). Fix: removed first-bar guard that caused PC/VPS trade timing mismatch. New: Dry Run warning popup when starting in test mode."
 }
