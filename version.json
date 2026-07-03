@@ -1,5 +1,5 @@
 {
-  "version": "2.4.20",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.20/MardyTradeSetup-2.4.20.exe",
-  "notes": "Fix Fast Trail SL layout: compact two-field row fits Risk Management panel"
+  "version": "2.4.21",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.21/MardyTradeSetup-2.4.21.exe",
+  "notes": "Fix Fast Trail SL layout: split into two rows so Trail dist field is fully visible"
 }
