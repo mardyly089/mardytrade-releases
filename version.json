@@ -1,5 +1,5 @@
 {
-  "version": "2.4.21",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.21/MardyTradeSetup-2.4.21.exe",
-  "notes": "Fix Fast Trail SL layout: split into two rows so Trail dist field is fully visible"
+  "version": "2.4.22",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.22/MardyTradeSetup-2.4.22.exe",
+  "notes": "New compact no-scroll layout: 2-column design with charts on left, settings sidebar on right \u2014 fits any screen without scrolling. Removed session start bar guard so PC and VPS now enter trades at the same time."
 }
