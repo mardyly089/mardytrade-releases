@@ -1,5 +1,5 @@
 {
-  "version": "2.4.17",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.17/MardyTradeSetup-2.4.17.exe",
-  "notes": "Remove hidden H1 gate blocking M5 BT signals"
+  "version": "2.4.18",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.18/MardyTradeSetup-2.4.18.exe",
+  "notes": "Fix TF badge clickable in compact chart mode; M5 scan now works via UI"
 }
