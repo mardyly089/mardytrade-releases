@@ -1,5 +1,5 @@
 {
-  "version": "2.4.19",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.19/MardyTradeSetup-2.4.19.exe",
-  "notes": "Add Fast Trail SL: tight price-following SL that activates once profit hits a trigger pips threshold"
+  "version": "2.4.20",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.20/MardyTradeSetup-2.4.20.exe",
+  "notes": "Fix Fast Trail SL layout: compact two-field row fits Risk Management panel"
 }
