@@ -1,5 +1,5 @@
 {
-  "version": "2.4.23",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.23/MardyTradeSetup-2.4.23.exe",
-  "notes": "Fix: bot now defaults to LIVE trading (was incorrectly defaulting to Dry Run, causing all new installs to never place real orders). Fix: removed first-bar guard that caused PC/VPS trade timing mismatch. New: Dry Run warning popup when starting in test mode."
+  "version": "2.4.24",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.24/MardyTradeSetup-2.4.24.exe",
+  "notes": "Breakout strategy overhaul: confirmation candle now requires body >= 50% of range (single candle). TF-aware confirmation: M5/M15 uses M1, H1 uses M5, H4 uses M15. TP defaults by TF: M5=1.25R, M15=2R, H1/H4=trail only. Added Trade Decision Logger - every setup prints full PASS/FAIL breakdown. Loosened ATR filter (15 to 5 pip minimum)."
 }
