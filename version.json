@@ -1,5 +1,5 @@
 {
-  "version": "2.4.25",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.25/MardyTradeSetup-2.4.25.exe",
-  "notes": "Add multi-TF scoring engine: TAS (Trend Alignment Score) across M30/M15/M5, BSS (Breakout Strength Score on M15 candle: body/ATR + volume + RSI momentum - wick penalty), FTS (Final Trade Score = TAS + BSS*0.6 - spread penalty - HTF opposition penalty). Liquidity trap hard-reject (wick/range > 60% or counter-trend vs H4+H1). Entry gate: BUY if FTS >= +0.65, SELL if FTS <= -0.65. Full scoring breakdown printed in Trade Decision Logger."
+  "version": "2.4.26",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.26/MardyTradeSetup-2.4.26.exe",
+  "notes": "Fix auto-start dry run mode: status label now shows GOLD for dry run (was incorrectly GREEN), and a prominent log warning is shown when bot auto-starts in dry run so users are not silently in test mode"
 }
