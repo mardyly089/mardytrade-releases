@@ -1,5 +1,5 @@
 {
-  "version": "2.4.29",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.29/MardyTradeSetup-2.4.29.exe",
-  "notes": "Lower quality threshold 72 to 60 for M15 entries + log why signal was rejected (quality/filter)"
+  "version": "2.4.30",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.30/MardyTradeSetup-2.4.30.exe",
+  "notes": "Fix fast exit: bt_1m_exit_bars 1 to 3 (allow retest before closing) + expose Exit bars in UI"
 }
