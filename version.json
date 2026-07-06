@@ -1,5 +1,5 @@
 {
-  "version": "2.4.26",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.26/MardyTradeSetup-2.4.26.exe",
-  "notes": "Fix auto-start dry run mode: status label now shows GOLD for dry run (was incorrectly GREEN), and a prominent log warning is shown when bot auto-starts in dry run so users are not silently in test mode"
+  "version": "2.4.27",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.27/MardyTradeSetup-2.4.27.exe",
+  "notes": "Remove Dry Run mode (use demo account instead of dry run for testing). Add hot news alert banner showing HIGH IMPACT USD news up to 15min before with gold direction hint. Add clickable M5/M15/H1/H4 timeframe buttons in Strategy panel."
 }
