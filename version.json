@@ -1,5 +1,5 @@
 {
-  "version": "2.4.27",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.27/MardyTradeSetup-2.4.27.exe",
-  "notes": "Remove Dry Run mode (use demo account instead of dry run for testing). Add hot news alert banner showing HIGH IMPACT USD news up to 15min before with gold direction hint. Add clickable M5/M15/H1/H4 timeframe buttons in Strategy panel."
+  "version": "2.4.28",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.28/MardyTradeSetup-2.4.28.exe",
+  "notes": "Fix SL re-entry default OFF + SL re-entry toggle in Risk panel + post-release news Telegram alert (actual vs forecast)"
 }
