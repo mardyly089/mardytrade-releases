@@ -1,5 +1,5 @@
 {
-  "version": "2.4.31",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.31/MardyTradeSetup-2.4.31.exe",
-  "notes": "Fix duplicate TG alerts: signal alert OFF by default, add Signal/Order checkboxes to UI, fix multi-TF dedup guard"
+  "version": "2.4.32",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.32/MardyTradeSetup-2.4.32.exe",
+  "notes": "Fix sidebar cut off: right panel is now scrollable so Telegram Alerts section is always reachable"
 }
