@@ -1,5 +1,5 @@
 {
-  "version": "2.4.33",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.33/MardyTradeSetup-2.4.33.exe",
-  "notes": "Fix Buy in downtrend: H4 bias now uses 5-bar EMA slope fallback to catch early trend turns; counter-trend hard-reject fires on H4 bearish alone (not only H4+H1)"
+  "version": "2.4.34",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.34/MardyTradeSetup-2.4.34.exe",
+  "notes": "Add SL cooldown: optional pause after N consecutive losses (default OFF, configurable in Risk Management)"
 }
