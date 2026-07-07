@@ -1,5 +1,5 @@
 {
-  "version": "2.4.37",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.37/MardyTradeSetup-2.4.37.exe",
-  "notes": "Add H4/H1 HARD BLOCK toggles in Filters (default OFF = v2.4.32 free-entry behavior). Tick either to block counter-trend M5/M15/M30 entries."
+  "version": "2.4.38",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.38/MardyTradeSetup-2.4.38.exe",
+  "notes": "Fix: SL hits by MT5 now correctly trigger the re-entry cooldown (was only firing on bot-initiated closes). Adds Max open per side and Re-entry cooldown bars to RISK MANAGEMENT panel."
 }
