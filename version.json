@@ -1,5 +1,5 @@
 {
-  "version": "2.4.35",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.35/MardyTradeSetup-2.4.35.exe",
-  "notes": "Fix crash on startup: FONT_SM undefined in SL cooldown label"
+  "version": "2.4.36",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.36/MardyTradeSetup-2.4.36.exe",
+  "notes": "H4 counter-trend block now applies to M5/M15/M30 only - H1 trendline breakouts pass to FTS scoring instead of hard-reject"
 }
