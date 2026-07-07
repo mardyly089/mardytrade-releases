@@ -1,5 +1,5 @@
 {
-  "version": "2.4.32",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.32/MardyTradeSetup-2.4.32.exe",
-  "notes": "Fix sidebar cut off: right panel is now scrollable so Telegram Alerts section is always reachable"
+  "version": "2.4.33",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.33/MardyTradeSetup-2.4.33.exe",
+  "notes": "Fix Buy in downtrend: H4 bias now uses 5-bar EMA slope fallback to catch early trend turns; counter-trend hard-reject fires on H4 bearish alone (not only H4+H1)"
 }
