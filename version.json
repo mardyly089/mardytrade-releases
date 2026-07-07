@@ -1,5 +1,5 @@
 {
-  "version": "2.4.34",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.34/MardyTradeSetup-2.4.34.exe",
-  "notes": "Add SL cooldown: optional pause after N consecutive losses (default OFF, configurable in Risk Management)"
+  "version": "2.4.35",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.35/MardyTradeSetup-2.4.35.exe",
+  "notes": "Fix crash on startup: FONT_SM undefined in SL cooldown label"
 }
