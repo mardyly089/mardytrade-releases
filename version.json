@@ -1,5 +1,5 @@
 {
-  "version": "2.4.36",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.36/MardyTradeSetup-2.4.36.exe",
-  "notes": "H4 counter-trend block now applies to M5/M15/M30 only - H1 trendline breakouts pass to FTS scoring instead of hard-reject"
+  "version": "2.4.37",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.37/MardyTradeSetup-2.4.37.exe",
+  "notes": "Add H4/H1 HARD BLOCK toggles in Filters (default OFF = v2.4.32 free-entry behavior). Tick either to block counter-trend M5/M15/M30 entries."
 }
