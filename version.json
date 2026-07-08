@@ -1,5 +1,5 @@
 {
-  "version": "2.5.1",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.5.1/MardyTradeSetup-2.5.1.exe",
-  "notes": "MardyTrade v2.5.1"
+  "version": "2.5.2",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.5.2/MardyTradeSetup-2.5.2.exe",
+  "notes": "Fix trendline display: body-cut penalty capped at -20 so structural long-span lines win over short local ones; M5 no-trendline bug fixed; H4 now shows correct descending resistance; touch buffer tightened to 30%; Aggressive ICS threshold label corrected (73)"
 }
