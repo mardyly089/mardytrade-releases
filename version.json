@@ -1,5 +1,5 @@
 {
-  "version": "2.5.2",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.5.2/MardyTradeSetup-2.5.2.exe",
-  "notes": "Fix trendline display: body-cut penalty capped at -20 so structural long-span lines win over short local ones; M5 no-trendline bug fixed; H4 now shows correct descending resistance; touch buffer tightened to 30%; Aggressive ICS threshold label corrected (73)"
+  "version": "2.5.3",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.5.3/MardyTradeSetup-2.5.3.exe",
+  "notes": "FIX: H4 trendline now always visible - adaptive pivot fallback for wider timeframes (was blank when bt_pivot=5 found < 2 swing highs on H4 in strong trends)"
 }
