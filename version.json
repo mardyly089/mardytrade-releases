@@ -1,5 +1,5 @@
 {
-  "version": "2.4.38",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.4.38/MardyTradeSetup-2.4.38.exe",
-  "notes": "Fix: SL hits by MT5 now correctly trigger the re-entry cooldown (was only firing on bot-initiated closes). Adds Max open per side and Re-entry cooldown bars to RISK MANAGEMENT panel."
+  "version": "2.5.0",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.5.0/MardyTradeSetup-2.5.0.exe",
+  "notes": "New: Institutional Confidence Score (ICS) engine replaces FTS binary gate. 6-component weighted score (TL 30%+BQ 25%+MS 15%+TR 10%+MOM 10%+EX 10%) with verbose log per signal. Three modes in FILTERS: Aggressive=80 / Balanced=85 (default) / Conservative=90. Balanced mode = good trendline + decent breakout passes \u2014 never over-filters."
 }
