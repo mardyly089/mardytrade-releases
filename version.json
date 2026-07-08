@@ -1,5 +1,5 @@
 {
-  "version": "2.5.3",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.5.3/MardyTradeSetup-2.5.3.exe",
-  "notes": "FIX: H4 trendline now always visible - adaptive pivot fallback for wider timeframes (was blank when bt_pivot=5 found < 2 swing highs on H4 in strong trends)"
+  "version": "2.5.4",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.5.4/MardyTradeSetup-2.5.4.exe",
+  "notes": "FIX: Trendlines now always visible in current view - steep old lines that project off-screen are filtered out and scored 0; only candidates that cross the visible price range qualify"
 }
