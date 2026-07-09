@@ -1,5 +1,5 @@
 {
-  "version": "2.5.5",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.5.5/MardyTradeSetup-2.5.5.exe",
-  "notes": "FIX: Two entry protection improvements \u2014 (1) H4/H1 hard block now always decisive: price-vs-EMA fallback prevents the block silently passing when EMA slope is flat; (2) Directional SL cooldown: after (threshold-1) consecutive same-direction losses the bot pauses that direction \u2014 a winning SELL no longer resets the BUY loss counter"
+  "version": "2.5.6",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.5.6/MardyTradeSetup-2.5.6.exe",
+  "notes": "Framework v5 Phase 1: pullback entry, ADX 18-40 gate, candle pattern confirmation"
 }
