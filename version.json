@@ -1,5 +1,5 @@
 {
-  "version": "2.5.6",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.5.6/MardyTradeSetup-2.5.6.exe",
-  "notes": "Framework v5 Phase 1: pullback entry, ADX 18-40 gate, candle pattern confirmation"
+  "version": "2.5.7",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.5.7/MardyTradeSetup-2.5.7.exe",
+  "notes": "Lower auto-regime ADX threshold from 25 to 18 - bot stays in Breakout Trendline mode unless market is truly choppy"
 }
