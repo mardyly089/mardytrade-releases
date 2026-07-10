@@ -1,5 +1,5 @@
 {
-  "version": "2.5.8",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.5.8/MardyTradeSetup-2.5.8.exe",
-  "notes": "Fix: bot now self-heals if an update is broken - early update check runs before loading strategy module"
+  "version": "2.5.9",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.5.9/MardyTradeSetup-2.5.9.exe",
+  "notes": "Fix: installer now bundles Visual C++ 2022 runtime - resolves 'Failed to load python312.dll' error on some PCs"
 }
