@@ -1,5 +1,5 @@
 {
-  "version": "2.5.7",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.5.7/MardyTradeSetup-2.5.7.exe",
-  "notes": "Lower auto-regime ADX threshold from 25 to 18 - bot stays in Breakout Trendline mode unless market is truly choppy"
+  "version": "2.5.8",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.5.8/MardyTradeSetup-2.5.8.exe",
+  "notes": "Fix: bot now self-heals if an update is broken - early update check runs before loading strategy module"
 }
