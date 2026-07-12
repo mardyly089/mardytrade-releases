@@ -1,5 +1,5 @@
 {
-  "version": "2.5.14",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.5.14/MardyTradeSetup-2.5.14.exe",
-  "notes": "MardyTrade v2.5.14"
+  "version": "2.5.15",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.5.15/MardyTradeSetup-2.5.15.exe",
+  "notes": "Fix: AI Scanner confidence formula \u2014 ADX<15 markets no longer mathematically blocked (was 60% max, now allows 75%+ when 5-6 TF dimensions align). Fix: Session filter now visible in log \u2014 startup shows UTC window and IN/OUT status; scanning log shows [SESSION CLOSED] when trades are blocked. Diagnostic: startup now logs Multi-Engine ON/OFF so you can confirm the mode at a glance."
 }
