@@ -1,5 +1,5 @@
 {
-  "version": "2.5.16",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.5.16/MardyTradeSetup-2.5.16.exe",
-  "notes": "MardyTrade v2.5.16"
+  "version": "2.5.17",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.5.17/MardyTradeSetup-2.5.17.exe",
+  "notes": "Fix: Exit bars setting now controls the entry adverse-bar check (was hardcoded to 2, now respects your configured value)"
 }
