@@ -1,5 +1,5 @@
 {
-  "version": "2.6.9",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.9/MardyTradeSetup-2.6.9.exe",
-  "notes": "Auto URL discovery: clients now auto-connect when master restarts with new tunnel URL. No manual copy-paste needed."
+  "version": "2.6.10",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.10/MardyTradeSetup-2.6.10.exe",
+  "notes": "Added live 'Last scan' timestamp in UI \u2014 shows exact time of last scan + ADX value in log so you can always verify the bot is still active."
 }
