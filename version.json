@@ -1,5 +1,5 @@
 {
-  "version": "2.6.3",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.3/MardyTradeSetup-2.6.3.exe",
-  "notes": "v2.6.3: ngrok tunnel built-in (no router needed), single-instance lock fixes duplicate window issue"
+  "version": "2.6.4",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.4/MardyTradeSetup-2.6.4.exe",
+  "notes": "v2.6.4: Tunnel needs zero signup \u2014 uses built-in SSH (localhost.run), no ngrok account required"
 }
