@@ -1,5 +1,5 @@
 {
-  "version": "2.6.10",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.10/MardyTradeSetup-2.6.10.exe",
-  "notes": "Added live 'Last scan' timestamp in UI \u2014 shows exact time of last scan + ADX value in log so you can always verify the bot is still active."
+  "version": "2.6.11",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.11/MardyTradeSetup-2.6.11.exe",
+  "notes": "Fixed scan log to be strategy-aware: BT shows actual ADX/quality rejection reason, CCT shows score threshold, Multi-Engine keeps its own structured log unchanged."
 }
