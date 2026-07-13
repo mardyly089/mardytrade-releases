@@ -1,5 +1,5 @@
 {
-  "version": "2.6.7",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.7/MardyTradeSetup-2.6.7.exe",
-  "notes": "Fix tunnel: switch from localhost.run (HTTP proxy, no WebSocket) to Cloudflare quick tunnel (full WebSocket support). cloudflared.exe auto-downloaded once on first use."
+  "version": "2.6.8",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.8/MardyTradeSetup-2.6.8.exe",
+  "notes": "Add client management: Block/Unblock clients, Broker column in list, Allowed Broker filter (rejects clients on wrong broker)"
 }
