@@ -1,5 +1,5 @@
 {
-  "version": "2.6.12",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.12/MardyTradeSetup-2.6.12.exe",
-  "notes": "Added Multi-TF Scan checkbox to UI (was hidden). Tick it to scan H4 to M5 simultaneously \u2014 first timeframe with a valid signal fires."
+  "version": "2.6.13",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.13/MardyTradeSetup-2.6.13.exe",
+  "notes": "Rich activity log: market snapshot (price, H1/H4 trend, ADX, ATR, session), detailed BT/CCT scan status, and live USD news alerts with Gold direction hints every scan."
 }
