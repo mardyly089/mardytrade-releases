@@ -1,5 +1,5 @@
 {
-  "version": "2.6.0",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.0/MardyTradeSetup-2.6.0.exe",
-  "notes": "v2.6.0 \u2014 Master Broadcast System: master bot broadcasts trade signals to unlimited Client Executors (MardyTradeClient.exe) over WebSocket; per-client risk settings; real-time execution reports; new Master tab in dashboard"
+  "version": "2.6.1",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.1/MardyTradeSetup-2.6.1.exe",
+  "notes": "v2.6.1 \u2014 fix crash on startup (KeyError teal in Master tab button)"
 }
