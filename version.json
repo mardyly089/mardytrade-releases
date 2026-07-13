@@ -1,5 +1,5 @@
 {
-  "version": "2.6.4",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.4/MardyTradeSetup-2.6.4.exe",
-  "notes": "v2.6.4: Tunnel needs zero signup \u2014 uses built-in SSH (localhost.run), no ngrok account required"
+  "version": "2.6.5",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.5/MardyTradeSetup-2.6.5.exe",
+  "notes": "Fix SSH tunnel URL detection: localhost.run changed domain to .lhr.life; also increase timeout to 40s for slower connections"
 }
