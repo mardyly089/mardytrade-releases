@@ -1,5 +1,5 @@
 {
-  "version": "2.6.1",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.1/MardyTradeSetup-2.6.1.exe",
-  "notes": "v2.6.1 \u2014 fix crash on startup (KeyError teal in Master tab button)"
+  "version": "2.6.2",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.2/MardyTradeSetup-2.6.2.exe",
+  "notes": "v2.6.2 \u2014 Master tab: auto-save client credentials to Desktop\\MardyTrade Clients\\<name>.txt with public IP auto-detected"
 }
