@@ -1,5 +1,5 @@
 {
-  "version": "2.6.6",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.6/MardyTradeSetup-2.6.6.exe",
-  "notes": "Fix tunnel: auto-start broadcast server when enabling tunnel (was getting InvalidMessage because port 9999 had nothing listening)"
+  "version": "2.6.7",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.7/MardyTradeSetup-2.6.7.exe",
+  "notes": "Fix tunnel: switch from localhost.run (HTTP proxy, no WebSocket) to Cloudflare quick tunnel (full WebSocket support). cloudflared.exe auto-downloaded once on first use."
 }
