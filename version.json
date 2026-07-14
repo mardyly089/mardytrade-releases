@@ -1,5 +1,5 @@
 {
-  "version": "2.6.17",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.17/MardyTradeSetup-2.6.17.exe",
-  "notes": "Fix: activity log now shows closed trade history (SL/TP/manual with P&L); Fix: BT stop loss capped at 80 pips to prevent oversized risk on H1/H4; Add: Follower tab for copy-trading to connected MT5 accounts"
+  "version": "2.6.18",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.18/MardyTradeSetup-2.6.18.exe",
+  "notes": "Add MA200 Trend strategy (confidence-scored, swing SL, 2R/3R/trailing TP); fix activity log showing closed trade P&L; cap BT SL at 80 pips; add BroadcastClient follower executor"
 }
