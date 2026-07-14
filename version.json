@@ -1,5 +1,5 @@
 {
   "version": "2.6.13",
   "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.13/MardyTradeSetup-2.6.13.exe",
-  "notes": "Fix: switched to --onedir build so python312.dll lives permanently in C:\\Program Files\\MardyTrade \u2014 no more temp extraction that Windows Defender deletes on launch. Also adds rich activity log with market snapshot, BT/CCT scan status, and live USD news alerts."
+  "notes": "Fix: --onedir build, no UPX \u2014 python312.dll (6.7MB) lives permanently in C:\\Program Files\\MardyTrade\\_internal\\, never extracted to temp. Resolves Windows Defender DLL deletion on every launch. Also adds rich scan log with market snapshot, news alerts."
 }
