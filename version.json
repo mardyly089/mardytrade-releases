@@ -1,5 +1,5 @@
 {
-  "version": "2.6.20",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.20/MardyTradeSetup-2.6.20.exe",
-  "notes": "Fix MA200 strategy crash: numpy bar rows use b[field] not b.get() \u2014 tick_volume access now safe"
+  "version": "2.6.21",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.21/MardyTradeSetup-2.6.21.exe",
+  "notes": "Fix BT H4/H1 early exits: 1M adverse-candle and 1M TL-cross checks now skipped on slow timeframes (H1/H4/D1) where normal M1 noise triggers false exits in 3 minutes"
 }
