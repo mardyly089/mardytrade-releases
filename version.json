@@ -1,5 +1,5 @@
 {
-  "version": "2.6.18",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.18/MardyTradeSetup-2.6.18.exe",
-  "notes": "Add MA200 Trend strategy (confidence-scored, swing SL, 2R/3R/trailing TP); fix activity log showing closed trade P&L; cap BT SL at 80 pips; add BroadcastClient follower executor"
+  "version": "2.6.19",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.19/MardyTradeSetup-2.6.19.exe",
+  "notes": "MA200 line on all 6 charts (gold=bullish, red=bearish); faint MA200 reference on all strategies; Follower auto-connect on startup checkbox"
 }
