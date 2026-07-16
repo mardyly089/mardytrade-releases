@@ -1,5 +1,5 @@
 {
-  "version": "2.6.23",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.23/MardyTradeSetup-2.6.23.exe",
-  "notes": "Fix crash on BT entry: sl unbound when swing SL too close to price; ATR fallback now correctly applied"
+  "version": "2.6.24",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.24/MardyTradeSetup-2.6.24.exe",
+  "notes": "Fix repeated alerts: BT signal logs once per new trendline; removed 1M bar-countdown messages; snapshot shows 1M watch status"
 }
