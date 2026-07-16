@@ -1,5 +1,5 @@
 {
-  "version": "2.6.22",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.22/MardyTradeSetup-2.6.22.exe",
-  "notes": "Fix log flood: multi-engine scan logs once per bar not every 60s; snapshot shows cooldown countdown"
+  "version": "2.6.23",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.23/MardyTradeSetup-2.6.23.exe",
+  "notes": "Fix crash on BT entry: sl unbound when swing SL too close to price; ATR fallback now correctly applied"
 }
