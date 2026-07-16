@@ -1,5 +1,5 @@
 {
-  "version": "2.6.25",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.25/MardyTradeSetup-2.6.25.exe",
-  "notes": "News section always visible: shows feed error or no-events status; Price shows MT5 disconnected when feed is down"
+  "version": "2.6.26",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.26/MardyTradeSetup-2.6.26.exe",
+  "notes": "Smart cooldown: 1 bar after WIN vs 3 bars after LOSS; Telegram alert when signal detected during cooldown (no trade placed)"
 }
