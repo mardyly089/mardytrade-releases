@@ -1,5 +1,5 @@
 {
-  "version": "2.6.24",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.24/MardyTradeSetup-2.6.24.exe",
-  "notes": "Fix repeated alerts: BT signal logs once per new trendline; removed 1M bar-countdown messages; snapshot shows 1M watch status"
+  "version": "2.6.25",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.25/MardyTradeSetup-2.6.25.exe",
+  "notes": "News section always visible: shows feed error or no-events status; Price shows MT5 disconnected when feed is down"
 }
