@@ -1,5 +1,5 @@
 {
-  "version": "2.6.30",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.30/MardyTradeSetup-2.6.30.exe",
-  "notes": "Fix H4 HARD BLOCK: now applies to all timeframes including H4 (was incorrectly skipped for H4/H1 signals). H4 HARD BLOCK on by default \u2014 blocks counter-trend entries when H4 EMA50 opposes signal direction."
+  "version": "2.6.31",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.31/MardyTradeSetup-2.6.31.exe",
+  "notes": "Redesigned breakout engine: MA200 direction gate (replaces EMA50), simplified confidence score (TL+Candle+ATR+RSI, threshold 65), multi-TF scan ON by default (M5/M15/M30/H1/H4), volume scoring removed (unreliable tick data)."
 }
