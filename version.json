@@ -1,5 +1,5 @@
 {
-  "version": "2.6.31",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.31/MardyTradeSetup-2.6.31.exe",
-  "notes": "Redesigned breakout engine: MA200 direction gate (replaces EMA50), simplified confidence score (TL+Candle+ATR+RSI, threshold 65), multi-TF scan ON by default (M5/M15/M30/H1/H4), volume scoring removed (unreliable tick data)."
+  "version": "2.6.32",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.32/MardyTradeSetup-2.6.32.exe",
+  "notes": "Chart: always draw BOTH top (resistance, red) and bottom (support, green) trendlines on every timeframe. Gold MA line now shows MA200 - the actual direction filter the bot uses - instead of EMA50."
 }
