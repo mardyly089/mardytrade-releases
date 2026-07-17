@@ -1,5 +1,5 @@
 {
-  "version": "2.6.28",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.28/MardyTradeSetup-2.6.28.exe",
-  "notes": "Signal quality: require 3-touch trendlines, fix volume scoring (use bt_vol_mult), reduce rapid re-entry after wins. Trail SL min-distance fallback for brokers returning stops_level=0."
+  "version": "2.6.29",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.29/MardyTradeSetup-2.6.29.exe",
+  "notes": "H4 HARD BLOCK enabled by default: bot now blocks counter-trend entries when H4 opposes signal direction. Prevents BUY in bearish H4 trend and SELL in bullish H4 trend."
 }
