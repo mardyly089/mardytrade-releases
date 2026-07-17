@@ -1,5 +1,5 @@
 {
-  "version": "2.6.32",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.32/MardyTradeSetup-2.6.32.exe",
-  "notes": "Chart: always draw BOTH top (resistance, red) and bottom (support, green) trendlines on every timeframe. Gold MA line now shows MA200 - the actual direction filter the bot uses - instead of EMA50."
+  "version": "2.6.33",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.33/MardyTradeSetup-2.6.33.exe",
+  "notes": "Fix: stop closing winning positions early. 1M adverse-bar check and TL cross-back check now skip the close when the position is already in profit \u2014 a breakout retest is normal, not a failure. Only close early when the trade is actually in a loss. Also fixed: the adverse-bar watch no longer stops after the first good candle \u2014 it resets and keeps watching through the full 7-minute window."
 }
