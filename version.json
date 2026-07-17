@@ -1,5 +1,5 @@
 {
-  "version": "2.6.36",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.36/MardyTradeSetup-2.6.36.exe",
-  "notes": "Follower auto-connect: clients auto-discover master URL from GitHub \u2014 no need to paste the tunnel URL manually"
+  "version": "2.6.37",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.37/MardyTradeSetup-2.6.37.exe",
+  "notes": "Client access control: set expiry date and broker lock per client \u2014 expired/wrong-broker clients auto-blocked"
 }
