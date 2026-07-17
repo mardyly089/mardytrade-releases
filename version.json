@@ -1,5 +1,5 @@
 {
-  "version": "2.6.37",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.37/MardyTradeSetup-2.6.37.exe",
-  "notes": "Client access control: set expiry date and broker lock per client \u2014 expired/wrong-broker clients auto-blocked"
+  "version": "2.6.38",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.38/MardyTradeSetup-2.6.38.exe",
+  "notes": "Add Client dialog now includes Broker Lock and Expiry Date fields at creation time"
 }
