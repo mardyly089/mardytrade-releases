@@ -1,5 +1,5 @@
 {
-  "version": "2.6.35",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.35/MardyTradeSetup-2.6.35.exe",
-  "notes": "Smart Breakout Engine v2: MA200 slope gate, momentum filter, RR check, multiple TP modes, partial close"
+  "version": "2.6.36",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.36/MardyTradeSetup-2.6.36.exe",
+  "notes": "Follower auto-connect: clients auto-discover master URL from GitHub \u2014 no need to paste the tunnel URL manually"
 }
