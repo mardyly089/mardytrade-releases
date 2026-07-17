@@ -1,5 +1,5 @@
 {
-  "version": "2.6.34",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.34/MardyTradeSetup-2.6.34.exe",
-  "notes": "Critical fix: H4 MA200 hard block was completely bypassed when multi-TF scan is enabled. The FTS gate (H4 MA200 direction check, liquidity trap, spread) was only wired into the single-TF path \u2014 all multi-TF signals (M5/M15/M30/H1/H4 scan) skipped it entirely, causing trades against the H4 trend. Now the full FTS gate runs for every timeframe in the multi-TF scan before a trade is placed or a Telegram alert is sent."
+  "version": "2.6.35",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.35/MardyTradeSetup-2.6.35.exe",
+  "notes": "Smart Breakout Engine v2: MA200 slope gate, momentum filter, RR check, multiple TP modes, partial close"
 }
