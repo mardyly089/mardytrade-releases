@@ -1,5 +1,5 @@
 {
-  "version": "2.6.41",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.41/MardyTradeSetup-2.6.41.exe",
-  "notes": "v2.6.41: Add 'Strict filters' toggle in settings. OFF (default) = classic v2.6.21 behavior \u2014 no slope gate, no momentum check, no R:R filter. ON = full smart filters active. Copy trade features unchanged."
+  "version": "2.6.42",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.42/MardyTradeSetup-2.6.42.exe",
+  "notes": "v2.6.42: BTCUSD support \u2014 all pip thresholds (spread, touch buffer, SL cap, slopes, retest, entry distance) now auto-scale with the symbol's ATR so the strategy works on any instrument, not just XAUUSD. Also fixes 'XAUUSD Trade Decision' log label to show the actual symbol."
 }
