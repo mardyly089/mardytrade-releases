@@ -1,5 +1,5 @@
 {
-  "version": "2.6.39",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.39/MardyTradeSetup-2.6.39.exe",
-  "notes": "Fix right-click menu actions (Delete, Set Expiry, Set Broker) not responding on client list"
+  "version": "2.6.40",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.40/MardyTradeSetup-2.6.40.exe",
+  "notes": "v2.6.40: Master server + tunnel auto-start on bot launch. Enable 'Auto-start' checkbox in Master tab once \u2014 server and Cloudflare tunnel start automatically every time you reopen the bot. Clients with Auto URL reconnect within 3 minutes."
 }
