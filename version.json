@@ -1,5 +1,5 @@
 {
-  "version": "2.6.38",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.38/MardyTradeSetup-2.6.38.exe",
-  "notes": "Add Client dialog now includes Broker Lock and Expiry Date fields at creation time"
+  "version": "2.6.39",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.39/MardyTradeSetup-2.6.39.exe",
+  "notes": "Fix right-click menu actions (Delete, Set Expiry, Set Broker) not responding on client list"
 }
