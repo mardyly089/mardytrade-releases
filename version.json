@@ -1,5 +1,5 @@
 {
-  "version": "2.6.43",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.43/MardyTradeSetup-2.6.43.exe",
-  "notes": "v2.6.43: Fix follower auto-connect errors \u2014 removed duplicate connection call (was connecting twice causing failure), fixed URL being fetched 3x on startup (race condition), fixed reconnect loop calling toggle instead of connect directly. Auto-connect and 3-minute reconnect are now reliable."
+  "version": "2.6.44",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.44/MardyTradeSetup-2.6.44.exe",
+  "notes": "v2.6.44: Fix 'numpy.void object has no attribute get' loop error on BTCUSD (and any symbol). MT5 returns bars as numpy structured arrays whose elements don't support .get() \u2014 _rates() now converts them to plain Python dicts on fetch so all code paths work correctly."
 }
