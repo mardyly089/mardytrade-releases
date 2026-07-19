@@ -1,5 +1,5 @@
 {
-  "version": "2.6.44",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.44/MardyTradeSetup-2.6.44.exe",
-  "notes": "v2.6.44: Fix 'numpy.void object has no attribute get' loop error on BTCUSD (and any symbol). MT5 returns bars as numpy structured arrays whose elements don't support .get() \u2014 _rates() now converts them to plain Python dicts on fetch so all code paths work correctly."
+  "version": "2.6.45",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.45/MardyTradeSetup-2.6.45.exe",
+  "notes": "v2.6.45: Fix 'Stale timestamp' auth rejection \u2014 raised clock-skew tolerance from 60s to 5 minutes so clients with slightly out-of-sync PC clocks can connect. Error message now tells user to sync their clock if still failing."
 }
