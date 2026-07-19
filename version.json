@@ -1,5 +1,5 @@
 {
-  "version": "2.6.42",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.42/MardyTradeSetup-2.6.42.exe",
-  "notes": "v2.6.42: BTCUSD support \u2014 all pip thresholds (spread, touch buffer, SL cap, slopes, retest, entry distance) now auto-scale with the symbol's ATR so the strategy works on any instrument, not just XAUUSD. Also fixes 'XAUUSD Trade Decision' log label to show the actual symbol."
+  "version": "2.6.43",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.43/MardyTradeSetup-2.6.43.exe",
+  "notes": "v2.6.43: Fix follower auto-connect errors \u2014 removed duplicate connection call (was connecting twice causing failure), fixed URL being fetched 3x on startup (race condition), fixed reconnect loop calling toggle instead of connect directly. Auto-connect and 3-minute reconnect are now reliable."
 }
