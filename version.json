@@ -1,5 +1,5 @@
 {
   "version": "2.6.46",
   "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.46/MardyTradeSetup-2.6.46.exe",
-  "notes": "v2.6.46: Fix broker lock \u2014 now correctly matches account number (e.g. 1150227489) OR broker name (e.g. Exness). Previously only matched broker company name so account number locks never worked."
+  "notes": "v2.6.46: Fix broker lock \u2014 now correctly matches account number (e.g. 1150227489) OR broker name (e.g. Exness). Previously only matched broker company name so account number locks never worked. Right-click Set Broker Lock dialog updated with clearer instructions."
 }
