@@ -1,5 +1,5 @@
 {
   "version": "2.6.47",
   "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.47/MardyTradeSetup-2.6.47.exe",
-  "notes": "MardyTrade v2.6.47"
+  "notes": "Fix: H4 MA200 hard block now applies in Multi-Engine mode (prevents counter-trend entries); Add: scan extra symbols (e.g. BTCUSD) alongside XAUUSD on weekends"
 }
