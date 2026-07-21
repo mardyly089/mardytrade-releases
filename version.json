@@ -1,5 +1,5 @@
 {
-  "version": "2.6.48",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.48/MardyTradeSetup-2.6.48.exe",
-  "notes": "skip"
+  "version": "2.6.49",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.49/MardyTradeSetup-2.6.49.exe",
+  "notes": "v2.6.49: M1 confirmation entry for M15 breakout - 8-bar timeout + ATR cap guard"
 }
