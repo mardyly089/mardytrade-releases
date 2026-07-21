@@ -1,5 +1,5 @@
 {
   "version": "2.6.48",
   "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.48/MardyTradeSetup-2.6.48.exe",
-  "notes": "New: ATR 3-phase trailing SL (BE at 1R, lock 0.5R at 1.5R, ATR trail at 2R); Simplified: removed multi-engine AI/CCT overhead, pure BT scoring; Default timeframe now M15 for 3-8 trades/day"
+  "notes": "skip"
 }
