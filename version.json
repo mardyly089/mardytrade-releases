@@ -1,5 +1,5 @@
 {
-  "version": "2.6.50",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.50/MardyTradeSetup-2.6.50.exe",
-  "notes": "v2.6.50: Remove reversal-exit closes \u2014 SL is now the only close mechanism for BT positions"
+  "version": "2.6.51",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.51/MardyTradeSetup-2.6.51.exe",
+  "notes": "Added Export/Import Settings buttons in the sidebar (SETTINGS SYNC card). Use Export to share your exact settings with clients as a JSON file; use Import to load them. Telegram token and chat ID are excluded from export for security."
 }
