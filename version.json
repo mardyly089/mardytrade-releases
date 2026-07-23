@@ -1,5 +1,5 @@
 {
-  "version": "2.6.54",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.54/MardyTradeSetup-2.6.54.exe",
-  "notes": "v2.6.54 \u2014 Catch All Real Breakouts\n\n- TL quality gate lowered (70 to 30): 2-touch institutional trendlines now pass\n- HTF misalignment no longer penalizes: H1/H4 against direction = neutral (8pts) not 0\n- Bot now fires real Buy/Sell breakouts on M15 without needing H1/H4 to agree\n- Higher timeframe alignment is a bonus when it agrees, never a blocker when it doesn't\n- Directly fixes today missed 30-pip sell breakout (scored too low due to H4 lag)"
+  "version": "2.6.55",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.55/MardyTradeSetup-2.6.55.exe",
+  "notes": "v2.6.55 \u2014 Auto-migrate old settings on first run\n\n- Existing users no longer need to import JSON after updating\n- On first launch, bot detects old bt_tl_quality_min value (70) and resets to 30\n- Migration runs once automatically, then saves the corrected settings\n- Custom values set by user are preserved (only exact old default 70 is reset)\n- New installs unaffected (already get correct defaults)"
 }
