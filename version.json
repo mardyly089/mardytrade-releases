@@ -1,5 +1,5 @@
 {
-  "version": "2.6.56",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.56/MardyTradeSetup-2.6.56.exe",
-  "notes": "v2.6.56 \u2014 Direction Lock: H4+H1 must both agree before any trade\n\n- H1 hard block now ON by default (was off)\n- If H4 = SELL and H1 = BUY: bot waits, no trade in either direction\n- If H4 = SELL and H1 = SELL: only SELL breakouts allowed, BUY blocked\n- Fixes counter-trend entries on small local trendlines during strong trends\n- H4 direction detection improved: works with as few as 20 bars (no more silent bypass)\n- Existing users: H1 block auto-enabled on first launch after update"
+  "version": "2.6.57",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.57/MardyTradeSetup-2.6.57.exe",
+  "notes": "v2.6.57 \u2014 Institutional signal quality: 3-touch minimum, dynamic TP, MA20 timing\n\n- Minimum 3 trendline touches required (was 2) \u2014 eliminates weak fake TLs\n- TP now targets nearest swing high/low instead of fixed 2R\n- Fallback to 2R when no swing level found at 1R+ distance\n- New MA20 pullback score: +8 pts when price recently tested MA20 before breakout\n- All existing users automatically migrated to new TP mode on first launch"
 }
