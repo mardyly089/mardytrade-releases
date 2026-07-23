@@ -1,5 +1,5 @@
 {
-  "version": "2.6.52",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.52/MardyTradeSetup-2.6.52.exe",
-  "notes": "Rebuilt Trendline Breakout Engine (v3): ATR-adaptive pivot strength, all-anchor-pair candidate scoring, body penetration filter across full TL span, automatic trendline expiry (age/drift/CHoCH), market structure detection (BOS/CHoCH/HH-HL/LH-LL) as a confidence bonus. New trendline_engine.py module. No change to SL/TP or position management."
+  "version": "2.6.53",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.53/MardyTradeSetup-2.6.53.exe",
+  "notes": "v2.6.53 \u2014 Breakout Look-back Window\n\n- Bot now catches breakouts that fired 1-2 bars before you started it\n- Signal must still be alive at current price (not closed back through trendline)\n- ATR cap prevents entering overextended moves (1.5x ATR max distance)\n- Asian session excluded from look-back (active sessions only)\n- All users on same broker and same version now scan identically"
 }
