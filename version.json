@@ -1,5 +1,5 @@
 {
-  "version": "2.6.55",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.55/MardyTradeSetup-2.6.55.exe",
-  "notes": "v2.6.55 \u2014 Auto-migrate old settings on first run\n\n- Existing users no longer need to import JSON after updating\n- On first launch, bot detects old bt_tl_quality_min value (70) and resets to 30\n- Migration runs once automatically, then saves the corrected settings\n- Custom values set by user are preserved (only exact old default 70 is reset)\n- New installs unaffected (already get correct defaults)"
+  "version": "2.6.56",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.56/MardyTradeSetup-2.6.56.exe",
+  "notes": "v2.6.56 \u2014 Direction Lock: H4+H1 must both agree before any trade\n\n- H1 hard block now ON by default (was off)\n- If H4 = SELL and H1 = BUY: bot waits, no trade in either direction\n- If H4 = SELL and H1 = SELL: only SELL breakouts allowed, BUY blocked\n- Fixes counter-trend entries on small local trendlines during strong trends\n- H4 direction detection improved: works with as few as 20 bars (no more silent bypass)\n- Existing users: H1 block auto-enabled on first launch after update"
 }
