@@ -1,5 +1,5 @@
 {
-  "version": "2.6.53",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.53/MardyTradeSetup-2.6.53.exe",
-  "notes": "v2.6.53 \u2014 Breakout Look-back Window\n\n- Bot now catches breakouts that fired 1-2 bars before you started it\n- Signal must still be alive at current price (not closed back through trendline)\n- ATR cap prevents entering overextended moves (1.5x ATR max distance)\n- Asian session excluded from look-back (active sessions only)\n- All users on same broker and same version now scan identically"
+  "version": "2.6.54",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.54/MardyTradeSetup-2.6.54.exe",
+  "notes": "v2.6.54 \u2014 Catch All Real Breakouts\n\n- TL quality gate lowered (70 to 30): 2-touch institutional trendlines now pass\n- HTF misalignment no longer penalizes: H1/H4 against direction = neutral (8pts) not 0\n- Bot now fires real Buy/Sell breakouts on M15 without needing H1/H4 to agree\n- Higher timeframe alignment is a bonus when it agrees, never a blocker when it doesn't\n- Directly fixes today missed 30-pip sell breakout (scored too low due to H4 lag)"
 }
