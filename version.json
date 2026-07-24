@@ -1,5 +1,5 @@
 {
-  "version": "2.6.58",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.58/MardyTradeSetup-2.6.58.exe",
-  "notes": "v2.6.58 \u2014 Selective mode: max 4 trades/day + balanced 1:2 reward-risk\n\n- Hard cap of 4 new trades per day (UTC) \u2014 forces the bot to take only the best setups\n- Re-entries and manual AI trades are exempt from the cap\n- Take-profit now targets nearest swing at 1.5R minimum (balanced pro), 2R fallback\n- Counter auto-resets each new day; live log shows Daily trades: N/4 used\n- Existing users auto-migrated to the 4/day cap on first launch\n\nNote: no bot can guarantee a fixed win rate. This release makes the bot more\nselective and keeps reward-risk healthy, which is what grows an account over time."
+  "version": "2.6.59",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.59/MardyTradeSetup-2.6.59.exe",
+  "notes": "v2.6.59 \u2014 CLASSIC MODE: bring back the free, active v2.6.21 feel\n\n- New 'Classic Mode' checkbox at the top of the Filters panel\n- When ON, the heavy filters relax to trade more freely like v2.6.21 best:\n  * H1 Direction Lock OFF\n  * No daily trade cap (unlimited)\n  * 2-touch trendlines allowed\n  * Strict momentum/MA200-slope filters OFF\n  * Lower confidence + trendline quality gate\n- H4 direction block stays ON (only blocks obviously wrong-way trades)\n- OFF by default: existing users keep the selective mode until they tick it\n- Startup log clearly shows CLASSIC MODE ON when active"
 }
