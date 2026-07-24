@@ -1,5 +1,5 @@
 {
-  "version": "2.6.57",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.57/MardyTradeSetup-2.6.57.exe",
-  "notes": "v2.6.57 \u2014 Institutional signal quality: 3-touch minimum, dynamic TP, MA20 timing\n\n- Minimum 3 trendline touches required (was 2) \u2014 eliminates weak fake TLs\n- TP now targets nearest swing high/low instead of fixed 2R\n- Fallback to 2R when no swing level found at 1R+ distance\n- New MA20 pullback score: +8 pts when price recently tested MA20 before breakout\n- All existing users automatically migrated to new TP mode on first launch"
+  "version": "2.6.58",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.58/MardyTradeSetup-2.6.58.exe",
+  "notes": "v2.6.58 \u2014 Selective mode: max 4 trades/day + balanced 1:2 reward-risk\n\n- Hard cap of 4 new trades per day (UTC) \u2014 forces the bot to take only the best setups\n- Re-entries and manual AI trades are exempt from the cap\n- Take-profit now targets nearest swing at 1.5R minimum (balanced pro), 2R fallback\n- Counter auto-resets each new day; live log shows Daily trades: N/4 used\n- Existing users auto-migrated to the 4/day cap on first launch\n\nNote: no bot can guarantee a fixed win rate. This release makes the bot more\nselective and keeps reward-risk healthy, which is what grows an account over time."
 }
