@@ -1,5 +1,5 @@
 {
-  "version": "2.6.59",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.59/MardyTradeSetup-2.6.59.exe",
-  "notes": "v2.6.59 \u2014 CLASSIC MODE: bring back the free, active v2.6.21 feel\n\n- New 'Classic Mode' checkbox at the top of the Filters panel\n- When ON, the heavy filters relax to trade more freely like v2.6.21 best:\n  * H1 Direction Lock OFF\n  * No daily trade cap (unlimited)\n  * 2-touch trendlines allowed\n  * Strict momentum/MA200-slope filters OFF\n  * Lower confidence + trendline quality gate\n- H4 direction block stays ON (only blocks obviously wrong-way trades)\n- OFF by default: existing users keep the selective mode until they tick it\n- Startup log clearly shows CLASSIC MODE ON when active"
+  "version": "2.6.60",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.60/MardyTradeSetup-2.6.60.exe",
+  "notes": "v2.6.60 \u2014 Charts now show the exact line the bot trades\n\n- Dashboard trendlines now come from the SAME engine that decides entries\n  (previously the drawn line was a separate look-alike, not the traded line)\n- A line is hidden the moment the engine would ignore it: price >3xATR away,\n  aged out, or the breakout already consumed\n- This removes the stale steep lines that used to linger on M30/H1/M15\n- What you see on the chart = what the bot actually acts on\n- Uses your bt_tl_quality_min setting so drawn + traded acceptance match"
 }
