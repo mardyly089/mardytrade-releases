@@ -1,5 +1,5 @@
 {
-  "version": "2.6.61",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.61/MardyTradeSetup-2.6.61.exe",
-  "notes": "Fixes a bug where the bot stopped entering trades after its first closed trade. In multi-timeframe mode the entry cooldown never expired, so the scanner stayed locked until the app was restarted. Also restores the 'why no entry' diagnostic in the activity log, which was being hidden by the Multi-Engine Mode status line."
+  "version": "2.6.62",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.62/MardyTradeSetup-2.6.62.exe",
+  "notes": "Same fixes as 2.6.61, rebuilt with strategy protection correctly applied. Fixes a bug where the bot stopped entering trades after its first closed trade: in multi-timeframe mode the entry cooldown never expired, so the scanner stayed locked until the app was restarted. Also restores the 'why no entry' diagnostic in the activity log."
 }
