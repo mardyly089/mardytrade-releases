@@ -1,5 +1,5 @@
 {
-  "version": "2.6.60",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.60/MardyTradeSetup-2.6.60.exe",
-  "notes": "v2.6.60 \u2014 Charts now show the exact line the bot trades\n\n- Dashboard trendlines now come from the SAME engine that decides entries\n  (previously the drawn line was a separate look-alike, not the traded line)\n- A line is hidden the moment the engine would ignore it: price >3xATR away,\n  aged out, or the breakout already consumed\n- This removes the stale steep lines that used to linger on M30/H1/M15\n- What you see on the chart = what the bot actually acts on\n- Uses your bt_tl_quality_min setting so drawn + traded acceptance match"
+  "version": "2.6.61",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.61/MardyTradeSetup-2.6.61.exe",
+  "notes": "Fixes a bug where the bot stopped entering trades after its first closed trade. In multi-timeframe mode the entry cooldown never expired, so the scanner stayed locked until the app was restarted. Also restores the 'why no entry' diagnostic in the activity log, which was being hidden by the Multi-Engine Mode status line."
 }
