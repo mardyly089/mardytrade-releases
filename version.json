@@ -1,5 +1,5 @@
 {
-  "version": "2.6.63",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.63/MardyTradeSetup-2.6.63.exe",
-  "notes": "Fixes the daily loss limit never resetting: once equity sat 5% below the level at start-up the bot stopped taking entries permanently until it was restarted, while still appearing to run normally. The limit now rolls over at the UTC day boundary as intended. Also fixes the economic-calendar feed retrying on every scan after a failure, which triggered rate-limiting and produced a misleading 'check internet connection' message; failed fetches now back off and the log reports the real reason."
+  "version": "2.6.64",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.64/MardyTradeSetup-2.6.64.exe",
+  "notes": "Simpler interface. The filter and stop-management checkboxes have been removed and are now configured automatically, so there is nothing to tick before starting the bot. IMPORTANT: two filters that were blocking entries (Trend HTF and H4 Hard Block) are now off by default, so the bot will take noticeably more trades than before. Break-even, trailing stop and stop-loss cooldown remain active automatically. Risk % per trade and the automation and alert options are unchanged. Test on a demo account first to confirm the new activity level suits you."
 }
