@@ -1,5 +1,5 @@
 {
-  "version": "2.6.64",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.64/MardyTradeSetup-2.6.64.exe",
-  "notes": "Simpler interface. The filter and stop-management checkboxes have been removed and are now configured automatically, so there is nothing to tick before starting the bot. IMPORTANT: two filters that were blocking entries (Trend HTF and H4 Hard Block) are now off by default, so the bot will take noticeably more trades than before. Break-even, trailing stop and stop-loss cooldown remain active automatically. Risk % per trade and the automation and alert options are unchanged. Test on a demo account first to confirm the new activity level suits you."
+  "version": "2.6.65",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.65/MardyTradeSetup-2.6.65.exe",
+  "notes": "Fixes HTTPS on machines where the app could not verify certificates. Affected users saw 'certificate verify failed' in the activity log, but the impact was wider than the news calendar: the same fault silently blocked the automatic update check, Telegram alerts, online licence validation and the AI assistant. The certificate bundle is now shipped with the app and all network calls share one verified connection path. If you have seen that error, this update restores update notifications as well as the news feed. Trading itself was never affected."
 }
