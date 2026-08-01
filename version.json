@@ -1,5 +1,5 @@
 {
-  "version": "2.6.66",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.66/MardyTradeSetup-2.6.66.exe",
-  "notes": "Time handling and entry safety. The app now uses one clock for everything: broker server time is converted to UTC internally, so trading decisions no longer mix the two. This also corrects the cooldown countdown in the activity log, which could be several hours wrong depending on your broker. New safety checks run immediately before every order: the symbol must be tradable, the price quote must be fresh, and the price must not have drifted more than 2x ATR away from the level the signal was based on, so the bot no longer chases a move that ran away after the signal. These checks are deliberately generous and should not block normal entries. Times are shown in local time for display only."
+  "version": "2.6.67",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.67/MardyTradeSetup-2.6.67.exe",
+  "notes": "URGENT FIX for version 2.6.66. In 2.6.66 an internal module was missing from the build, which caused every order attempt to fail with an internal error logged as 'Loop error' in the activity log. Version 2.6.66 could not place trades. Please update immediately. No trades were placed incorrectly and no positions were affected; the bot simply could not enter. This release restores order placement and includes the same time-handling and entry-safety improvements intended for 2.6.66: broker server time is converted to UTC internally, the cooldown countdown in the activity log is corrected, and orders are checked for a tradable symbol, a fresh price quote, and excessive price drift before being sent."
 }
