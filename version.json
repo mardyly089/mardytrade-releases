@@ -1,5 +1,5 @@
 {
-  "version": "2.6.65",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.65/MardyTradeSetup-2.6.65.exe",
-  "notes": "Fixes HTTPS on machines where the app could not verify certificates. Affected users saw 'certificate verify failed' in the activity log, but the impact was wider than the news calendar: the same fault silently blocked the automatic update check, Telegram alerts, online licence validation and the AI assistant. The certificate bundle is now shipped with the app and all network calls share one verified connection path. If you have seen that error, this update restores update notifications as well as the news feed. Trading itself was never affected."
+  "version": "2.6.66",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.66/MardyTradeSetup-2.6.66.exe",
+  "notes": "Time handling and entry safety. The app now uses one clock for everything: broker server time is converted to UTC internally, so trading decisions no longer mix the two. This also corrects the cooldown countdown in the activity log, which could be several hours wrong depending on your broker. New safety checks run immediately before every order: the symbol must be tradable, the price quote must be fresh, and the price must not have drifted more than 2x ATR away from the level the signal was based on, so the bot no longer chases a move that ran away after the signal. These checks are deliberately generous and should not block normal entries. Times are shown in local time for display only."
 }
