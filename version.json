@@ -1,5 +1,5 @@
 {
-  "version": "2.6.67",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.67/MardyTradeSetup-2.6.67.exe",
-  "notes": "URGENT FIX for version 2.6.66. In 2.6.66 an internal module was missing from the build, which caused every order attempt to fail with an internal error logged as 'Loop error' in the activity log. Version 2.6.66 could not place trades. Please update immediately. No trades were placed incorrectly and no positions were affected; the bot simply could not enter. This release restores order placement and includes the same time-handling and entry-safety improvements intended for 2.6.66: broker server time is converted to UTC internally, the cooldown countdown in the activity log is corrected, and orders are checked for a tradable symbol, a fresh price quote, and excessive price drift before being sent."
+  "version": "2.6.68",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.68/MardyTradeSetup-2.6.68.exe",
+  "notes": "The in-app Backtest button for Breakout Trendline now models the same stop-loss and take-profit logic the live bot actually uses (swing/ATR-based stop, dynamic support-resistance target), instead of a simplified flat-pips model that made results look far worse than real trading. Also, the Trading Mode selector (More trades / Balanced / Fewer, safer) now actually changes how the bot trades: More trades takes every valid breakout, Balanced only trades with the higher-timeframe trend, and Fewer, safer additionally requires the H4 trend to agree before entering. Previously this selector had no effect on the Breakout Trendline strategy."
 }
