@@ -1,5 +1,5 @@
 {
-  "version": "2.6.68",
-  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.68/MardyTradeSetup-2.6.68.exe",
-  "notes": "The in-app Backtest button for Breakout Trendline now models the same stop-loss and take-profit logic the live bot actually uses (swing/ATR-based stop, dynamic support-resistance target), instead of a simplified flat-pips model that made results look far worse than real trading. Also, the Trading Mode selector (More trades / Balanced / Fewer, safer) now actually changes how the bot trades: More trades takes every valid breakout, Balanced only trades with the higher-timeframe trend, and Fewer, safer additionally requires the H4 trend to agree before entering. Previously this selector had no effect on the Breakout Trendline strategy."
+  "version": "2.6.69",
+  "url": "https://github.com/mardyly089/mardytrade-releases/releases/download/v2.6.69/MardyTradeSetup-2.6.69.exe",
+  "notes": "Fixes a Backtest inconsistency: the 'SL at swing' setting for Breakout Trendline could be switched off with no visible sign anything changed, and doing so measurably hurt results (profit factor 1.46 down to 0.63 on identical data in testing). It is now always on, matching the setting that performed better. Five other toggles that had no effect (they were already fixed automatically) have been removed from the screen so there is nothing left to accidentally change. Every Backtest result now also states exactly which settings it used, at the bottom of the result and in the activity log, so results are always traceable to what was actually tested."
 }
